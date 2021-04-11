@@ -1,2 +1,2 @@
-# Joshua_Website
+# Joshua Website
 My Personal Website

@@ -1,0 +1,50 @@
+.nameHeader {
+	color: #000000;
+	font-size: 54px;
+	top: 181px;
+	left: 583px;
+	position: absolute;
+}
+
+.jobTitleHeader {
+	color: #5aa8d9;
+	font-size: 34px;
+	top: 261px;
+	left: 583px;
+	position: absolute;
+}
+
+.profileDesc {
+	color: #000000;
+	font-size: 24px;
+	top: 341px;
+	left: 583px;
+	position: absolute;
+}
+
+.educationHeader {
+	font-size: 54px;
+	top:500px;
+	left:38px;
+	position: absolute;
+}
+
+.tab {
+	margin-left: 15px;
+}
+
+body {
+	background-color: #FAFAFA;
+	font-family: Helvetica, sans-sarif;
+	color: black;
+}
+
+button {
+	height:150px;
+	width:150px;
+	cursor:pointer;
+	padding: 0;
+	border: none;
+	position: absolute;
+}
+

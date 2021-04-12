@@ -22,25 +22,26 @@
 	position: absolute;
 }
 
-.educationHeader {
-	font-size: 54px;
-	top:500px;
-	left:38px;
-	position: absolute;
+.header {
+	display: flex;
+	flex-direction: row;
 }
 
-.experienceHeader {
-	font-size: 54px;
-	top:600px;
-	left:38px;
-	position: absolute;
+.header:before, .header:after{
+	content: "";
+	flex: 1 1;
+	border-bottom: 6px solid;
+	margin: auto;
 }
 
-.skillsHeader {
-	font-size: 54px;
-	top:700px;
-	left:38px;
-	position: absolute;
+.header:before {
+	margin-left: 24px;
+	margin-right: 35px;
+}
+
+.header:after {
+	margin-right: 24px;
+	margin-left: 35px;
 }
 
 .tab {

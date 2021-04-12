@@ -33,6 +33,66 @@
 	margin-left: 15px;
 }
 
+.temp {
+
+}
+
+.fa {
+	height:150px;
+	width:150px;
+	cursor:pointer;
+	padding: 0;
+	border: none;
+	position: absolute;
+	text-align: center;
+	font-size: 50px;
+	text-decoration: none;
+}
+
+.fa-linkedin {
+	background: #86BAB7;
+	color: white;
+	top:16px;
+	left:523px;
+}
+
+.fa-instagram {
+	background: #753960;
+	color: white;
+	top:16px;
+	left:823px;
+}
+
+.fa-email {
+	background: #6891A6;
+	color: white;
+	top:16px;
+	left:673px;
+}
+
+.fa-twitter {
+	background: #AB6F6F;
+	color: white;
+	top:16px;
+	left:973px;
+}
+
+.fa-facebook {
+	background: #C99381;
+	color: white;
+	top:16px;
+	left:1123px;
+}
+
+.fa-spotify {
+	background: #F4CDA8;
+	color: white;
+	top:16px;
+	left:1273px;
+}
+
+
+
 body {
 	background-color: #FAFAFA;
 	font-family: Helvetica, sans-sarif;

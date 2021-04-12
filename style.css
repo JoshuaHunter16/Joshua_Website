@@ -29,6 +29,20 @@
 	position: absolute;
 }
 
+.experienceHeader {
+	font-size: 54px;
+	top:600px;
+	left:38px;
+	position: absolute;
+}
+
+.skillsHeader {
+	font-size: 54px;
+	top:700px;
+	left:38px;
+	position: absolute;
+}
+
 .tab {
 	margin-left: 15px;
 }
@@ -37,6 +51,7 @@
 	height:150px;
 	width:150px;
 	cursor:pointer;
+	top:16px;
 	padding: 0;
 	border: none;
 	position: absolute;
@@ -45,45 +60,43 @@
 	text-decoration: none;
 }
 
+.fa:hover {
+	opacity: 0.7;
+}
+
 .fa-linkedin {
 	background: #86BAB7;
 	color: white;
-	top:16px;
 	left:523px;
 }
 
 .fa-instagram {
 	background: #753960;
 	color: white;
-	top:16px;
 	left:823px;
 }
 
 .fa-email {
 	background: #6891A6;
 	color: white;
-	top:16px;
 	left:673px;
 }
 
 .fa-twitter {
 	background: #AB6F6F;
 	color: white;
-	top:16px;
 	left:973px;
 }
 
 .fa-facebook {
 	background: #C99381;
 	color: white;
-	top:16px;
 	left:1123px;
 }
 
 .fa-spotify {
 	background: #F4CDA8;
 	color: white;
-	top:16px;
 	left:1273px;
 }
 
@@ -101,4 +114,3 @@ button {
 	border: none;
 	position: absolute;
 }
-

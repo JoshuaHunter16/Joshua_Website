@@ -1,5 +1,4 @@
 import './App.css';
-import languages from "./components/languages";
 import headshot from './img/headshot.JPG'
 import cpp from './img/C++Logo.png'
 import c from './img/CLogo.png'

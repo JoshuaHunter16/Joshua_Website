@@ -74,11 +74,11 @@ function App() {
           <p style={{marginLeft: 20+ '%', marginRight: 20+ '%', marginTop: 30+ 'px'}}>Virtually tutor students in the subjects of
             Computer Science, Calculus, Religion, Chemistry/Geology, and Mathematics</p>
           <hr size="1" width="25+ '%'" color="#AB6F6F"/>
-          <h4 style={{fontSize: 140+ '%', marginBottom: 0}}><b>Academic Tutor</b></h4>
-          <h5 style={{marginBottom: 0, marginTop: 15+ 'px'}}>Baylor University Tutoring Center</h5>
-          <h5 style={{marginTop: 15+ 'px'}}>AUGUST 2020 – PRESENT</h5>
-          <p style={{marginLeft: 20+ '%', marginRight: 20+ '%', marginTop: 30+ 'px'}}>Virtually tutor students in the subjects of
-            Computer Science, Calculus, Religion, Chemistry/Geology, and Mathematics</p>
+          <h4 style={{fontSize: 140+ '%', marginBottom: 0}}><b>Software Reverse Engineering Research</b></h4>
+          <h5 style={{marginBottom: 0, marginTop: 15+ 'px'}}>Baylor University</h5>
+          <h5 style={{marginTop: 15+ 'px'}}>JUNE 2020 – JANUARY 2021</h5>
+          <p style={{marginLeft: 20+ '%', marginRight: 20+ '%', marginTop: 30+ 'px'}}>Worked alongside Professor Cindy Fry (Computer Science Professor, Baylor University) to research the different uses of reverse engineering tools as well as comparing and contrasting their uses and effectiveness on software reverse engineering. From this, we wrote a thorough literature review on reverse engineering with an emphasis on the NSA’s release of Ghidra in April 2019. We are submitting a paper to the ASEE annual conference. Pending publication.</p>
+          <h5 style={{marginTop: 15+ 'px'}}>Stack: C++, C, x86 Assembly</h5>
 
           <h3 class="header"><b>ACTIVITIES</b></h3>
           <h4 style={{fontSize: 130+ '%', marginBottom: 0}}>Theta Tau ΘΤ</h4>

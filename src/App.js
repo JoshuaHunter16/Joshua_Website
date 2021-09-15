@@ -44,12 +44,12 @@ function App() {
 
         <h2 class="jobTitleHeader">
 			<span>
-				Computer Scientist
+				Software Engineer
 			</span>
         </h2>
 
         <p class="profileDesc">
-          Ambitious and hard-working sophomore computer science student from McKinney, Texas.
+          Ambitious and hard-working junior computer science student from McKinney, Texas.
           Skilled in software engineering, coding, problem solving, and leadership.
           I am actively seeking a position that I can use my skills and talents to not only grow in this profession,
           but to also be an active contributor and leader to my peers.
@@ -60,19 +60,27 @@ function App() {
           <h4 style={{fontSize: 140+ '%'}}><b>Baylor University</b></h4>
           <h4>Bachelor of Science, Computer Science</h4>
           <h4>MAY 2023</h4>
-          <h4>Current GPA: 3.82</h4>
-          <p style={{marginLeft: 20 + '+ '%'', marginRight: 20 + '+ '%''}}><b>Relevant Courses:</b>
+          <h4>Current GPA: 3.85</h4>
+
+          <p style={{marginLeft: 20 + '%', marginRight: 20 + '%'}}><b>Relevant Courses: </b>
             Introduction to Computer Science I, Introduction to Computer Science II,
             Discrete Structures, Computer Systems, Data Structures, Introduction to Algorithms,
-            Software Engineering I, Calculus I / II / III, Probability and Statistics
+            Software Engineering I / II, Systems Programming, Database Design & Application,
+            Calculus I / II / III, Probability and Statistics
           </p>
 
           <h3 class="header"><b>EXPERIENCE</b></h3>
-          <h4 style={{fontSize: 140+ '%', marginBottom: 0}}><b>Academic Tutor</b></h4>
+          <h4 style={{fontSize: 140+ '%', marginBottom: 0}}><b>Computer Science Master Tutor</b></h4>
           <h5 style={{marginBottom: 0, marginTop: 15+ 'px'}}>Baylor University Tutoring Center</h5>
           <h5 style={{marginTop: 15+ 'px'}}>AUGUST 2020 – PRESENT</h5>
           <p style={{marginLeft: 20+ '%', marginRight: 20+ '%', marginTop: 30+ 'px'}}>Virtually tutor students in the subjects of
-            Computer Science, Calculus, Religion, Chemistry/Geology, and Mathematics</p>
+            Computer Science, Calculus, Religion, Chemistry/Geology, and Mathematics...as well as lead weekly review sessions for Intro to Computer Science I.</p>
+          <hr size="1" width="25+ '%'" color="#AB6F6F"/>
+          <h4 style={{fontSize: 140+ '%', marginBottom: 0}}><b>Software Engineering Intern</b></h4>
+          <h5 style={{marginBottom: 0, marginTop: 15+ 'px'}}>L3Harris Technologies</h5>
+          <h5 style={{marginTop: 15+ 'px'}}>JUNE 2021 – AUGUST 2021</h5>
+          <p style={{marginLeft: 20+ '%', marginRight: 20+ '%', marginTop: 30+ 'px'}}>Maintained secret clearance as I worked as part of the Greenville Data Links team. Used Agile SCRUM to organize tasks, projects, and communication between the team within JIRA and confluence. Worked on various projects that included updating implementation to improve timing, XML based port reconfiguration, and data parsing to generate reports. </p>
+          <h5 style={{marginTop: 15+ 'px'}}>Stack: C++, Java, Microsoft Excel VBA, XML</h5>
           <hr size="1" width="25+ '%'" color="#AB6F6F"/>
           <h4 style={{fontSize: 140+ '%', marginBottom: 0}}><b>Software Reverse Engineering Research</b></h4>
           <h5 style={{marginBottom: 0, marginTop: 15+ 'px'}}>Baylor University</h5>
